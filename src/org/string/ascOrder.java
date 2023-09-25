@@ -21,6 +21,7 @@ public class ascOrder {
 	         }
 	      }
 	      System.out.println("Third largest element is: "+Arrays.toString(charArray));
+	      System.out.println("Shree");
 	   }
 
 }
